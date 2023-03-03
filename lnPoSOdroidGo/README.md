@@ -24,4 +24,4 @@ Installation via SD card is not supported yet.
 I was able to create, install & boot a .fw file, but the access point doesn't start.
 If anyone can help with this I'd be happy to fix it.
 
-Please open an issue or write on twitter @hpcodecraft if you have an idea why the Odroid firmware (and the Multi-Firmware) don't work with this.
+Please open an issue if you have an idea why the Odroid firmware (and the Multi-Firmware) don't work with this.
